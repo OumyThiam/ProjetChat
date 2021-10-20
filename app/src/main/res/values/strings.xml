@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ProjetChat</string>
+
+
+        <!--Page d'accueil -->
+
+        <string name="home_page_tile"> mon chat </string>
+        <string name="add_home_page_tittle_change_style_button">Change style</string>
+        <string name="add_home_page_tittle_replay_sound_button">Replay sound</string>
+        <string name="add_home_page_tittle_next_page_button">Next Page</string>
+
+
+        <!--Page text -->
+        <string  name="page_de_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+Incididunt ut labore etdolore magna aliqua</string>
+
+        <string name="page_de_text_get_from_api_button">Get From API</string>
+        <string name="page_de_text_save_button">Save</string>
+        <string name="page_de_text_previous_page_button">Previous page</string>
+        <string name="privious_page">Privious page</string>
+        <string name="load">load</string>
+        <string name="previous_page">Previous page</string>
+    <string name="next_page">Next Page</string>
+    <string name="play_sound">Play Sound</string>
+
+</resources>
